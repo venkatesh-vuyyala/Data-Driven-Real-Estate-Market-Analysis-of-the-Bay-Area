@@ -18,7 +18,7 @@ The data is Gathered on the real estate market in the San Francisco Bay Area. Th
 
 - What is the percentage of home types available on Redfin for the selected cities in Bay Area?
 1. Single-family homes make up the majority of properties (61%).
-<img width="519" alt="image" src="https://github.com/venkatesh-vuyyala/Data-Driven-Real-Estate-Market-Analysis-of-the-Bay-Area/assets/126367292/834df225-c9a6-4840-8471-ae6fb9055b7b">
+<img width="617" alt="Screenshot 2024-06-10 at 5 35 49 PM" src="https://github.com/venkatesh-vuyyala/Data-Driven-Real-Estate-Market-Analysis-of-the-Bay-Area/assets/126367292/a419125e-cc99-4eb2-b7a8-7d477db49b0c">
 
 
 - Implementd Regression with performing ANOVA-F test and Ridge Rgularization to predict price of house's in bay area.
